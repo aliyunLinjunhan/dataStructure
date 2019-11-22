@@ -1,0 +1,17 @@
+﻿  main.c
+c:\users\m1552\desktop\bank_module\main.c(7): warning C4005: “ERROR”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\wingdi.h(118): note: 参见“ERROR”的前一个定义
+c:\users\m1552\desktop\bank_module\main.c(38): warning C4047: “初始化”:“LinkList”与“LinkList *”的间接级别不同
+c:\users\m1552\desktop\bank_module\main.c(55): warning C4133: “=”: 从“LNode *”到“Link”的类型不兼容
+c:\users\m1552\desktop\bank_module\main.c(50): warning C4133: “初始化”: 从“LNode *”到“Link”的类型不兼容
+c:\users\m1552\desktop\bank_module\main.c(85): warning C4133: “=”: 从“Link”到“LNode *”的类型不兼容
+c:\users\m1552\desktop\bank_module\main.c(109): warning C4133: “=”: 从“LNode *”到“Link”的类型不兼容
+c:\users\m1552\desktop\bank_module\main.c(131): warning C4047: “return”:“LQueue *”与“int”的间接级别不同
+c:\users\m1552\desktop\bank_module\main.c(181): warning C4013: “myfree”未定义；假设外部返回 int
+c:\users\m1552\desktop\bank_module\main.c(223): warning C4033: “mymalloc”必须返回值
+c:\users\m1552\desktop\bank_module\main.c(305): warning C4013: “Leave_event”未定义；假设外部返回 int
+c:\users\m1552\desktop\bank_module\main.c(386): warning C4133: “=”: 从“LNode *”到“LNode *”的类型不兼容
+c:\users\m1552\desktop\bank_module\main.c(229): warning C4715: “mymalloc”: 不是所有的控件路径都返回值
+c:\users\m1552\desktop\bank_module\main.c(297): warning C4715: “Arrial_event”: 不是所有的控件路径都返回值
+c:\users\m1552\desktop\bank_module\main.c(358): warning C4716: “handel_event”: 必须返回一个值
+  bank_module.vcxproj -> C:\Users\m1552\Desktop\bank_module\Debug\bank_module.exe
