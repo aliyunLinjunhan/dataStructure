@@ -1,0 +1,10 @@
+﻿  main.c
+c:\users\administrator\documents\visual studio 2015\projects\project1\project1\main.c(123): warning C4033: “GetVex”必须返回值
+c:\users\administrator\documents\visual studio 2015\projects\project1\project1\main.c(204): warning C4047: “return”:“LQueue *”与“int”的间接级别不同
+c:\users\administrator\documents\visual studio 2015\projects\project1\project1\main.c(241): warning C4029: 声明的形参表不同于定义
+c:\users\administrator\documents\visual studio 2015\projects\project1\project1\main.c(327): warning C4020: “DFSTraverse”: 实参太多
+c:\users\administrator\documents\visual studio 2015\projects\project1\project1\main.c(125): warning C4715: “GetVex”: 不是所有的控件路径都返回值
+c:\users\administrator\documents\visual studio 2015\projects\project1\project1\main.c(163): warning C4715: “AddArc”: 不是所有的控件路径都返回值
+c:\users\administrator\documents\visual studio 2015\projects\project1\project1\main.c(174): warning C4715: “Remove”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)
